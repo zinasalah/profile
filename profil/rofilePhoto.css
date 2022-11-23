@@ -1,0 +1,19 @@
+img {
+    height: 30px;
+    width: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.pro {
+    display: flex;
+    text-align: justify;
+
+}
+
+p {
+    text-align: right;
+    margin-top: 180px;
+}
